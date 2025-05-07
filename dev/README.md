@@ -1,12 +1,9 @@
-# Mini-site de Présentation d'Entreprise
+# BRANCHE DE PRODUCTION
 
 ## Structure
-- `index.html`, `services.html`, `contact.html`
-- `styles/` : thème CSS
-- `scripts/` : interactions JS
+- test/
 
 ## Branches
-- `main` : version finale
 - `dev` : intégration
 - `feature/*` : fonctionnalités
 - `test/ui-review` : tests UI/UX
